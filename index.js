@@ -192,3 +192,4 @@ function finishHtml() {
 // .then(function() {
 // finishHtml();
 // });
+initApp(); 

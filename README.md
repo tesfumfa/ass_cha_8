@@ -1,4 +1,4 @@
-# ass_chal_8
+# assignment challenge 10
 <h1> Team-Profile-Generator</h1>
 <h1> Project Description</h1>
 <p>  The Team Profile Generator is a command-line-input application run in Node that requests information<br/>

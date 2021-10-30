@@ -9,12 +9,12 @@ selects that member's role from a list (options include "Engineer," "Intern," an
 enters the member's email address, and then must enter another piece of information that will differ depending on what role was selected.<br/>
 If "Engineer" was selected, the app asks the user for the team member's GitHub username; if "Intern" was selected, the member's school is requested; <br/>
 and if "Manager" was chosen, the user is prompted for the team member's phone number.<br/>
-A screenshot showing an example user input is shown below:
+A screenshot showing an example user input is shown below:<br/>
   <img src="./assets/images/Screenshotappplication.png">
   
   
   
-  When all information on the team member has been entered, the user is asked whether there are any more members they would like to add. If so, the user is asked the same questions about the new team member. If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html." A screenshot of an example team profile is shown below:
+  When all information on the team member has been entered, the user is asked whether there are any more members they would like to add. If so, the user is asked the same questions about the new team member. If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html." <br/>A screenshot of an example team profile is shown below:
    <img src="./assets/images/Screenshotteam.png">
   
   

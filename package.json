@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tesfumfa/ass_chal_8#readme",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
